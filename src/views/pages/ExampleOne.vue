@@ -4,7 +4,7 @@
 			<v-layout row wrap>
 				<v-flex xl6 lg6 md6 sm7 xs12>
 					<div class="welcome-message mb-3">
-						<h4>Good morning, Fanny, Julio et Kevin.</h4>
+						<h4>Good morning, Fanny, Jonathan, Julio et Kevin.</h4>
 						<p>Here’s what’s happening with your campaign this week.</p>
 					</div>
 					<div class="welcome-chart">
